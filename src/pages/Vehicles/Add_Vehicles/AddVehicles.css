@@ -1,0 +1,71 @@
+.add-v-main-container{width: 100%; display: flex;flex-direction: column;gap:18px; }
+.add-v-main-container .add-v-form-container{width: 100%; position: relative;;display: flex;flex-direction: column;  padding:17px 0px 20px 0px ;background-color: #FFF;}
+.add-v-main-container .add-v-form-container .add-v-form-top-section{width: 100%; padding:0px 39px 0px 37px;border-bottom: 1px solid #DCDCDC;}
+.add-v-main-container .add-v-form-container .add-v-form-top-section .top-bottom-section .tabs{display: flex;gap: 23px; padding-top: 32px;}
+.add-v-main-container .add-v-form-container .add-v-form-top-section .top-bottom-section .tabs .tab{display: flex; cursor: pointer; gap:8px; padding-bottom: 12px;}
+.add-v-main-container .add-v-form-container .add-v-form-top-section .top-bottom-section .tabs .tab-active{ border-bottom:2px solid #256EB5;}
+.check-vahan{margin-top: 38px;}
+
+/* bottom section css */
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section{width: 100%; padding:40px 39px 0px 37px;flex: 1;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form{display: flex;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-left-section{width: 17%; display: flex; flex-direction: column;gap: 8px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section{width:62%;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section{width: 100%;display: flex;flex-direction: column;gap: 12px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-one{width: 100%;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .group-type1-70{width: calc(100% - 205px);}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-two{width: 100%;display: flex;gap:11px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-three,.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-four{width: 100%;display: flex;gap: 15px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-three div,.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-four div{flex: 1;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-three .field-type-three-right-section{display: flex;gap: 33px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-five{display: flex;gap:15px;width: 66%;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-six{display: flex;gap:15px}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-seven{display: flex;width: 50%;padding-right: 19px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eight{display: flex;gap:36px}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eight div:nth-child(1){flex:2;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eight div:nth-child(2){flex:2;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eight div:nth-child(3){flex:1;}
+
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-nine{display: flex;width: 33%;padding-right: 19px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-ten{display: flex;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section  .field-type-ten .type-ten-left{display: flex;flex-direction: column; gap: 26px; width: 55%;padding-right: 32px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section  .field-type-ten .type-ten-right-container{width: 45%;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section  .field-type-ten .type-ten-right-container .type-ten-right{ position: relative; width: 100%;margin-top: 3px;border-radius: 6px; padding-top: 23px;padding-bottom: 16px;border: 1px solid #D8D6D6;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section  .field-type-ten .type-ten-right-container .type-ten-right .type-ten-right-img-div{display: flex;align-items: center;justify-content: center;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section  .field-type-ten .type-ten-right-container .type-ten-right .type-ten-right-img-div .bus-img{object-fit: contain;height: 229px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eleven{display: flex;gap: 15px;}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eleven .eleven-left{ flex:1}
+.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-eleven .eleven-right{flex: 2; display: flex;gap:15px;}
+
+.add-v-form-bottom-section .formik-wrap-button{position: absolute;z-index: 1;top: 23px;right: 39px; display: flex ;gap:15px;padding-top: 6px;}
+.image-uploder-block{width: 100%;border-radius: 6px;border: 1px solid #E0E0E0;background: #FFF;}
+.activetabIcon svg path{fill:#256EB5}
+.specification-step{height:calc(100vh - 345px);overflow-y:scroll;padding-bottom:20px}
+
+@media screen and (max-width:1897px) {
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section {width: 69%;}
+
+}
+@media screen and (max-width:1728px) {
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section {width: 72%;}
+
+}
+@media screen and (max-width:1667px) {
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-five, 
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-three,
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-four,
+    /* .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-six {gap:15px} */
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-seven,.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-nine{padding-right: 0px;}
+}
+@media screen and (max-width:1444px) {
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-left-section {width: 21%;}
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section {width: 79%;}
+
+}
+@media screen and (max-width:1367px) {
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-five, 
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-three,
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-four,
+    /* .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-six {gap:26px} */
+    .add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-seven,.add-v-main-container .add-v-form-container .add-v-form-bottom-section .add-v-form .add-v-form-right-section .add-v-form-section .field-type-nine{padding-right: 13px;}
+}

@@ -1,0 +1,23 @@
+/* .css-1iyq7zh-MuiDataGrid-columnHeaders {background-color: #CDE9F6 !important;} */
+.data-grid-container{flex-grow: 1;overflow-y: auto;}
+.css-1kco8du{height: 100%!important;width: 100%;}
+.MuiDataGrid-columnHeaders  {background-color: #CDE9F6 !important;}
+  .css-az8st9-MuiDataGrid-root .MuiDataGrid-columnHeader:focus, .css-az8st9-MuiDataGrid-root .MuiDataGrid-cell:focus{outline: none !important;}
+  .css-az8st9-MuiDataGrid-root .MuiDataGrid-columnHeader:focus-within, .css-az8st9-MuiDataGrid-root .MuiDataGrid-cell:focus-within{border: none!important;outline: none !important;}
+  .MuiDataGrid-columnHeaders .MuiDataGrid-columnSeparator{visibility: visible !important;} 
+  .MuiDataGrid-columnSeparator svg path{fill: #256EB5;}
+
+  /* .css-az8st9-MuiDataGrid-root:last-child.MuiDataGrid-iconSeparator {
+    display: none;
+} */
+.hide-img-bordersvg .MuiDataGrid-columnSeparator{display: none !important;}
+
+  .css-az8st9-MuiDataGrid-root .MuiDataGrid-row:hover{background-color: #E6F4FA;}
+  .mui-status-div{gap:6px}
+  .mui-status-div .mui-status-color{width: 8px; height: 8px; border-radius: 50%;}
+  .mui-status-div .Active{background-color:#2BD900;}
+  .mui-status-div .Inactive{background-color: #1339FD;}
+  .mui-status-div .Out {background-color: #F61515;}
+  .mui-status-div .In {background-color: #EE8C19;}
+  /* .mui-status-div .Out {background-color: ;} */
+  /* MuiDataGrid-columnSeparator--sideRight */
